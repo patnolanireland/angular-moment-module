@@ -2,7 +2,7 @@
 
 ## Use Moment.js from an AngularJS Service, Controller, Directive or Filter
 
-[![Build Status](https://travis-ci.org/patnolanireland/angular-moment-module.svg)](https://travis-ci.org/patnolanireland/angular-moment-module) [![Bower](https://img.shields.io/badge/bower-angular--moment--module-blue.svg)]
+[![Build Status](https://travis-ci.org/patnolanireland/angular-moment-module.svg)](https://travis-ci.org/patnolanireland/angular-moment-module) ![Bower](https://img.shields.io/badge/bower-angular--moment--module-blue.svg)
 ---
 
 ##Overview
