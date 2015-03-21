@@ -1,15 +1,14 @@
 # angular-moment-module
 
-## Use Moment.js from a Service or Controller
+## Use Moment.js from an AngularJS Service, Controller, Directive or Filter
 
-[![Build Status](https://travis-ci.org/patnolanireland/angular-moment-module.svg)](https://travis-ci.org/patnolanireland/angular-moment-module)
-
+[![Build Status](https://travis-ci.org/patnolanireland/angular-moment-module.svg)](https://travis-ci.org/patnolanireland/angular-moment-module) [![Bower](https://img.shields.io/badge/bower-angular--moment--module-blue.svg)
 ---
 
 ##Overview
 
 This module is a very simple wrapper around the global moment object exposed on the window.  It seeks to achieve
- the use case whereby injecting an Angular Service or Controller with $window is less than desirable.
+ the use case whereby injecting an Angular Service or Controller with $window may be less than desirable.
 
 ## Usage
 
